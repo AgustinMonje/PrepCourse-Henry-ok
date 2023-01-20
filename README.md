@@ -1,2 +1,1 @@
-# PrepCourse-Henry-ok
-Dia 2 del curso es un repositorio nuevo
+Prueba del 20 de Enero
